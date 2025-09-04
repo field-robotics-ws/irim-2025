@@ -21,7 +21,7 @@
 					<header id="header" class="alt">
 					<span class="logo"><img src="images/irim_logo.png" alt=""></span>
 						<h1>Workshop "Out of the Lab: Challenges and Opportunities in Field Robotics"</h1>
-						<h2><a href="https://i-rim.it/en/i-rim-3d-2025-conference/">I-RIM 2025 Conference</a> </h2>
+						<h2><a href="https://i-rim.it/en/i-rim-3d-2025-conference/" >I-RIM 2025 Conference</a> </h2>
 					</header>
 
 				<!-- Nav -->
@@ -30,6 +30,7 @@
 							<li><a href="#info" >Info</a></li>
 							<li><a href="#content" >Content</a></li>
 							<li><a href="#speakers" >Speakers</a></li>
+							<li><a href="#cfp">Call for Papers</a></li>
 							<li><a href="#schedule">Schedule</a></li>
 							<li><a href="#organizers">Organizers</a></li>
 							<li><a href="#contact">Contact</a></li>
@@ -46,7 +47,8 @@
 											<h2>Info</h2>
 										</header>
 										<ul >
-										<li><b>When: </b> October 17 or 18 (TBD), 2025</li>
+										<li><b>Submission deadline: </b> September 23, 2025</li>
+										<li><b>Workshop date: </b> October 18, 2025</li>
 										<li><b>Where: </b>  Gazometro Ostiense, Rome, Italy</li>
 										<li><b>Room: </b>  TBD </li>
 										<!--li><b>Online Link: </b>  <a href="https://events.zoom.us/ev/AmDwmh4pBZTIC06_Sgm1CA9p1mjyBQFa0ifW0ULzLsumlFOfF7Pu~AggLXsr32QYFjq8BlYLZ5I06Dg"> https://events.zoom.us/ev/AmDwmh4pBZTIC06_Sgm1CA9p1mjyBQFa0ifW0ULzLsumlFOfF7Pu~AggLXsr32QYFjq8BlYLZ5I06Dg</a></li>
@@ -77,14 +79,6 @@ Among the key open problems that this workshop aims to discuss there are:
 								</ul>
 </div>
 
-								<!--ul >
-										<li>Human state estimation and prediction</li>
-										<li>Online replanning for human-robot collaboration </li>
-										<li>Safety in human-robot collaboration</li>
-										<li>Benchmarking and evaluation of  interaction performance </li>
-										<li>Social robots</li>
-										<li>Application-specific challenges: healthcare, manufacturing, assistive robotics, agriculture, etc.</li>
-								</ul-->
 
 
 							</section>
@@ -109,6 +103,28 @@ Among the key open problems that this workshop aims to discuss there are:
 							</div>
 						</section>
 							
+							
+							<section id="cfp" class="main">
+							<header class="major">
+									<h2>Call for papers</h2>
+									
+								</header>
+								We invite participants to submit extended abstracts of 2 pages (up to 4 with additional payment). 
+								Accepted contributions will follow the conference review process and will be <b>collected in the digital proceedings of the conference</b>. 
+								They will be freely accessible (Open Access Gold), digitally indexed (DOI) and citable. 
+								<div>
+								Abstracts can be submitted through Easychair at the link <a href="https://easychair.org/cfp/irim3d_2025" target="_blank" > https://easychair.org/cfp/irim3d_2025 </a> by selecting <b>“Out of the Lab: Challenges and Opportunities in Field Robotics”</b> as “Type of submission” 
+								
+								</div>
+								<div>
+								</div>
+								<ul >
+										<li><b>Submission deadline: </b> September 23, 2025</li>
+										<li><b>Submission instructions:</b> <a href="https://drive.google.com/file/d/19uWtcbHYhcB9gGOiZPTmw90WtJCD5l_4/view?usp=sharing" target="_blank" > https://drive.google.com/file/d/19uWtcbHYhcB9gGOiZPTmw90WtJCD5l_4/view?usp=sharing </a>  
+										<li><b>Abstract template:</b> <a href="https://drive.google.com/drive/folders/1pJLbqwXbdGQg5bkdpNZ8_bLYUKcaJi66?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1pJLbqwXbdGQg5bkdpNZ8_bLYUKcaJi66?usp=sharing</a>  
+										
+										</ul>
+						</section>
 							
 							<section id="schedule" class="main">
 						
@@ -198,6 +214,7 @@ Among the key open problems that this workshop aims to discuss there are:
 								 <ul>
 							  <li> Dario Guastella, University of Catania, Italy</li>
 							  <li> Martina Lippi (corresponding), Roma Tre University, Italy</li>
+							  <li> Lorenzo Scalera, University of Udine, Italy</li>
 							</ul>
 							
 											
