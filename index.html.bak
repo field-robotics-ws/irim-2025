@@ -48,7 +48,7 @@
 										</header>
 										<ul >
 										<li><b>Submission deadline: </b> September 23, 2025</li>
-										<li><b>Workshop date: </b> October 18, 2025</li>
+										<li><b>Workshop date: </b> October 18, 2025, 15.30 - 18.00</li>
 										<li><b>Where: </b>  Gazometro Ostiense, Rome, Italy</li>
 										<li><b>Room: </b>  TBD </li>
 										<!--li><b>Online Link: </b>  <a href="https://events.zoom.us/ev/AmDwmh4pBZTIC06_Sgm1CA9p1mjyBQFa0ifW0ULzLsumlFOfF7Pu~AggLXsr32QYFjq8BlYLZ5I06Dg"> https://events.zoom.us/ev/AmDwmh4pBZTIC06_Sgm1CA9p1mjyBQFa0ifW0ULzLsumlFOfF7Pu~AggLXsr32QYFjq8BlYLZ5I06Dg</a></li>
@@ -95,7 +95,7 @@ Among the key open problems that this workshop aims to discuss there are:
 							  <li>Victor Barasuol, Senior Researcher, Istituto Italiano di Tecnologia (IIT) </li>
 							  <li> Marco Camurri, Associate Professor, University of Trento </li>
 							  <li>Karl Dietrich von Ellenrieder, Full Professor, Free University of Bozen-Bolzano </li>
-							  <li>Andrea Gasparri, Full Professor, Roma Tre University </li>
+							  <li>Martina Lippi, Assistant Professor, Roma Tre University </li>
 							</ul>
 							
 											
@@ -104,6 +104,85 @@ Among the key open problems that this workshop aims to discuss there are:
 						</section>
 							
 							
+							
+							<section id="schedule" class="main">
+						
+							<header class="major">
+									<h2>Schedule</h2>
+									
+								</header>
+							
+							
+							<h3>Time Zone: GMT+02 (Rome time)</h3>
+							<table id="schedule_tab">
+						  <tr>
+						    <th>Time</th>
+						    <th>Activity</th>
+						  </tr>
+						  <tr>
+						    <td>15:30 - 15:35</td>
+						    <td><b>Welcome </b></td>
+						  </tr>
+						  <tr>
+						    <td>15.35 - 15.55</td>
+						    <td> <b>Marco Camurri, University of Trento</b>
+								</td>
+						  </tr>
+						  <tr>
+						    <td>15.55 - 16.15</td>
+						    <td> <b> Karl Dietrich von Ellenrieder, Free University of Bozen-Bolzano</b>
+							</td>
+						  </tr>
+						  <tr>
+						    <td>16.15 - 16.35</td>
+						    <td> <b>Victor Barasuol, Istituto Italiano di Tecnologia (IIT)</b> 
+							</td>
+
+						    
+						  </tr>
+						  <tr>
+						    <td>16.35 - 16.55</td>
+							<td> <b> Martina Lippi, Roma Tre University </b> 
+						    </td>
+						  </tr>
+						  <tr>
+						    <td>16.55 - 17.00</td>
+							<td> <b> Introduction to extended abstracts  </b>
+						    </td>
+						  </tr>
+						  <tr>
+						    <td>17.00 - 17.15</td>
+						    <td> <b> Pitch session </b> </td>
+						  </tr>
+						  <tr>
+						    <td>17.15 - 18.00</td>
+						    <td><b> Poster session  </b> 
+								</td>
+						  </tr>
+						  
+						</table>
+						<h3>Info on extended abstracts: </h3>
+						<p> Each extended abstract will be presented during the pitch session (max 2 minutes per paper) and during the following poster session (~45 minutes). Templates for slides and posters are available on the IRIM conference website: <a href="https://i-rim.it/en/call-for-contributions/" target="_blank"> https://i-rim.it/en/call-for-contributions/ </a></p>
+						<h3>List of extended abstracts: </h3>
+<ol>
+<li>Diego Tiozzo Fasiolo, Lorenzo Scalera, Eleonora Maset and Alessandro Gasparetto - <em>Autonomous Forest Navigation and Mapping: Field Validation of a Mobile Robotic System</em></li>
+<li>Joel Enrique Esparza Ramirez, Santos Miguel Orozco Soto, Karl von Ellenrieder and Abraham Mejia-Aguilar - <em>Extremum Seeking Control for Beacon Detection in Avalanche Disasters using Multiple UAV</em></li>
+<li>Giovanna Guaragnella, Annaclaudia Bono and Vito Ren&ograve; - <em>Towards Social Navigation on a Quadruped Robot: Analyzing DINOv2 Visual Representations for Indoor Scene Understanding</em></li>
+<li>Erfan Khiali, Gabriele Ribolla, Francesca Negrello, Fabio Previdi and Manuel Giuseppe Catalano - <em>Smart Robotics in Viticulture: Enhancing Monitoring and Manipulation</em></li>
+<li>Gabriele Ribolla, Alexandr Rucodainii, Francesca Negrello and Manuel Giuseppe Catalano - <em>Towards Intelligent Costruction Machines: the Cranebot</em></li>
+<li>Martina Callea, Roberto Masocco, Luca Chiaraviglio, Alessandro Tenaglia, Alexandru Cretu, Simone Mattogno and Daniele Carnevale - <em>Autonomous quadruped robot for 5G spectrum coverage measurements</em></li>
+<li>Marzia Piemontese, Lucia Tontini, Nevio Luigi Tagliamonte, Loredana Zollo and Clemente Lauretti - <em>Development of a Cable-Driven Hyper-Redundant Robot with Flexure Hinges-Based Modules</em></li>
+<li>Alessandro Denarda, Alberto Dionigi and Gabriele Costante - <em>VAT4MAV: Visual Active Tracking for Micro Aerial Vehicles</em></li>
+<li>Michela Andreotti, Miguel Fernandes, Angelo Bratta, Victor Barasuol and Claudio Semini - <em>APF-Based Control with Vortex Fields for Precise Robotic Manipulation in Grapevine Winter Pruning</em></li>
+<li>Emad Razavi, Angelo Bratta, Jo&atilde;o Carlos Virgolino Soares, Carmine Recchiuto and Claudio Semini - <em>Online Object-Level Semantic Mapping for Quadrupeds in Real-World Environments</em></li>
+<li>Francesco Cancelliere, Giuseppe Sutera, Simone Palazzo, Dario Calogero Guastella, Concetto Spampinato and Giovanni Muscato - <em>Performance Evaluation of Reinforcement Learning Algorithms for Learning Navigation in Unstructured Environments</em></li>
+</ol>						
+						
+
+
+					</section>
+					
+					
 							<section id="cfp" class="main">
 							<header class="major">
 									<h2>Call for papers</h2>
@@ -123,85 +202,6 @@ Among the key open problems that this workshop aims to discuss there are:
 										
 										</ul>
 						</section>
-							
-							<section id="schedule" class="main">
-						
-							<header class="major">
-									<h2>Schedule</h2>
-									
-								</header>
-							
-							
-							<h3>Time Zone: GMT+02 (Rome time)</h3>
-							<table id="schedule_tab">
-						  <tr>
-						    <th>Time</th>
-						    <th>Activity</th>
-						  </tr>
-						  <tr>
-						    <td>TBD</td>
-						    <td> TBD</td>
-						  </tr>
-						  <!--tr>
-						    <td>09:30 - 09:40</td>
-						    <td>Welcome </td>
-						  </tr>
-						  <tr>
-						    <td>09:40 - 10:05</td>
-						    <td> <b>Andrea Orlandini, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy:</b> Deploying AI solutions in Advanced Manufacturing Scenarios
-								</td>
-						  </tr>
-						  <tr>
-						    <td>10:05 - 10:30</td>
-						    <td> <b> Silvia Rossi, University of Naples, Italy:</b> Human and Context Awareness: Toward Socially Enhanced Autonomous Capabilities
-							</td>
-						  </tr>
-						  <tr>
-						    <td>10:30 - 10:55</td>
-						    <td> <b>Alberto Sanfeliu, Universitat Politècnica de Catalunya, Spain:</b> The Perception-Intention-Action cycle in Human-Robot Collaboration
-							</td>
-
-						    
-						  </tr>
-						  <tr>
-						    <td>10:55 – 11:20</td>
-							<td> <b> Arash Ajoudani,  Italian Institute of Technology (IIT), Italy: </b> Learning and control for flexible human robot interaction in industry
-						    </td>
-						  </tr>
-						  <tr>
-						    <td>11:20 - 11.40</td>
-							<td> <b> Coffee break </b>
-						    </td>
-						  </tr>
-						  <tr>
-						    <td>11:40 – 12:05</td>
-						    <td> <b>Danica Kragic, KTH Royal Institute of Technology, Sweden: </b>Robots: acting and interacting  </td>
-						  </tr>
-						  <tr>
-						    <td>12:05 – 12:30</td>
-						    <td><b> Daniele Nardi, Sapienza Università di Roma, Italy: </b> Experiences and reflections on HRI @ DIAG
-								</td>
-						  </tr>
-						  <tr>
-						    <td>12:30 - 12:55</td>
-							<td><b>Francesco Ferro, CEO PAL Robotics, Spain: </b> Service Social Robotics from an industry point of view
-								</td>
-						  </tr>
-						  <tr>
-						    <td>12:55 – 13:20</td>
-						    <td> <b> Andrea Maria Zanchettin,  Politecnico di Milano, Italy: </b> Collaborative robotics: from safe robots to intelligent coworkers </td>
-						  </tr>
-						  <tr>
-						    <td>13:20 – 13:30</td>
-						    <td>Closing remarks</td>
-						  </tr-->
-						</table>
-						
-							
-						
-
-
-					</section>
 
 							<section id="organizers" class="main">
 							<div class="inner">
