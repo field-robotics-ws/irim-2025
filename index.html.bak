@@ -50,7 +50,7 @@
 										<li><b>Submission deadline: </b> September 23, 2025</li>
 										<li><b>Workshop date: </b> October 18, 2025, 15.30 - 18.00</li>
 										<li><b>Where: </b>  Gazometro Ostiense, Rome, Italy</li>
-										<li><b>Room: </b>  TBD </li>
+										<li><b>Room: </b>  Sala Caravaggio </li>
 										<!--li><b>Online Link: </b>  <a href="https://events.zoom.us/ev/AmDwmh4pBZTIC06_Sgm1CA9p1mjyBQFa0ifW0ULzLsumlFOfF7Pu~AggLXsr32QYFjq8BlYLZ5I06Dg"> https://events.zoom.us/ev/AmDwmh4pBZTIC06_Sgm1CA9p1mjyBQFa0ifW0ULzLsumlFOfF7Pu~AggLXsr32QYFjq8BlYLZ5I06Dg</a></li>
 										<li><b>How to reach the place: </b> </li>
 										<div> 
@@ -86,7 +86,7 @@ Among the key open problems that this workshop aims to discuss there are:
 						<!-- Second Section -->
 						
 						<section id="speakers" class="main">
-							<div class="inner">
+							<!-- <div class="inner">
 							<header class="major">
 									<h2>Speakers (alphabetical order)</h2>
 									
@@ -100,7 +100,132 @@ Among the key open problems that this workshop aims to discuss there are:
 							
 											
 								
+							</div> -->
+							
+							
+							<div class="row">
+							  <div class="column">
+							    <img src="images/barasuol.png" alt="Victor Barasuol" class="img-list">
+							  </div>
+							  <div class="column" >
+									<p></p>
+				    				<h3 class='name-list'><b>  Victor Barasuol </b></h3>
+
+				    				<div class='info-list'>
+									<br>
+									Senior Researcher
+									<br>
+									Istituto Italiano di Tecnologia (IIT) 
+									<br>
+									<a href="https://www.iit.it/people-details/-/people/victor-barasuol" target="_blank">Personal website</a>
+									<br>
+									</div>
+									<p class='talk-list'>
+									<b> Talk title:</b> Quadruped Robots: from a Genovese Beach into a Lunar Crater
+ <br>
+								</p>							
+
+							  </div>
 							</div>
+							<p>
+							<b> Bio:</b> Victor Barasuol holds a Bachelor’s degree in Electrical Engineering and Master’s and Doctorate degrees in Automation and Systems Engineering. He is a Research Technologist at the Dynamic Legged Systems Lab of IIT Genoa, where he drives developments in the field of CleanTech, AgriTech, Disaster Response, and Space. His expertise covers a broad spectrum of quadruped robotics, from kinematic design to both low- and high-level control. Victor’s research focuses on developing safe, agile, and resilient locomotion through advanced motion generation and stabilization techniques, enabling legged robots to operate and collaborate reliably in real-world environments. <br>
+									</p>
+
+							<hr style="width:80%;text-align:left;margin-left:5">
+							
+							
+							<div class="row">
+							  <div class="column">
+							    <img src="images/camurri.jpg" alt="Marco Camurri" class="img-list">
+							  </div>
+							  <div class="column" >
+									<p></p>
+				    				<h3 class='name-list'><b>  Marco Camurri </b></h3>
+
+				    				<div class='info-list'>
+									<br>
+									Associate Professor
+									<br>
+									Università di Trento 
+									<br>
+									<a href="https://webapps.unitn.it/du/it/Persona/PER0285287/Didattica" target="_blank">Personal website</a>
+									<br>
+									</div>
+									<p class='talk-list'>
+									<b> Talk title:</b> Autonomous Navigation in the wild: lessons learned and future perspectives
+ <br>
+								</p>							
+
+							  </div>
+							</div>
+							<p>
+							<b> Bio:</b> TBA
+							<br>
+									</p>
+
+							<hr style="width:80%;text-align:left;margin-left:5">
+							
+							
+							<div class="row">
+							  <div class="column">
+							    <img src="images/ellenrieder.png" alt="Karl Dietrich von Ellenrieder" class="img-list">
+							  </div>
+							  <div class="column" >
+									<p></p>
+				    				<h3 class='name-list'><b>  Karl Dietrich von Ellenrieder </b></h3>
+
+				    				<div class='info-list'>
+									<br>
+									Full Professor
+									<br>
+									Free University of Bozen-Bolzano
+									<br>
+									<a href="https://www.unibz.it/it/faculties/engineering/academic-staff/person/37038-karl-dietrich-von-ellenrieder" target="_blank">Personal website</a>
+									<br>
+									</div>
+									<p class='talk-list'>
+									<b> Talk title:</b> Challenges and Opportunities in Marine Robotics
+ <br>
+								</p>							
+
+							  </div>
+							</div>
+							<p>
+							<b> Bio:</b> Karl von Ellenrieder received the B.S. degree in aeronautics and astronautics from Massachusetts Institute of Technology, Cambridge, MA, USA, in 1990, and the M.S. and Ph.D. degrees in aeronautics and astronautics from Stanford University, Stanford, CA, USA, in 1992 and 1998, respectively. From 1998 to 2002, he was a Research Fellow with Monash University, Melbourne, VIC, Australia; from 2003 to 2016, he was a Professor of Ocean Engineering with Florida Atlantic University, Dania Beach, FL, USA. Since 2016, he has been a Professor of Automation with the Faculty of Engineering, Libera Università di Bolzano, Italy. His research interests include topics related to the control of uncrewed vehicle systems. He is a member of the IEEE Control Systems Society, the IEEE Robotics & Automation Society, and the IEEE Oceanic Engineering Society. He is currently Editor-in-Chief of the IEEE Journal of Oceanic Engineering. <br>
+									</p>
+
+							<hr style="width:80%;text-align:left;margin-left:5">
+							
+							
+							<div class="row">
+							  <div class="column">
+							    <img src="images/lippi.jpg" alt="Martina Lippi" class="img-list">
+							  </div>
+							  <div class="column" >
+									<p></p>
+				    				<h3 class='name-list'><b> Martina Lippi </b></h3>
+
+				    				<div class='info-list'>
+									<br>
+									Assistant Professor
+									<br>
+									Roma Tre University
+									<br>
+									<a href="https://m-lippi.github.io/" target="_blank">Personal website</a>
+									<br>
+									</div>
+									<p class='talk-list'>
+									<b> Talk title:</b> Towards a human-multi-robot collaboration paradigm in precision agriculture settings
+ <br>
+								</p>							
+
+							  </div>
+							</div>
+							<p>
+							<b> Bio:</b> Martina Lippi received the M.Sc. (cum laude) and Ph.D. degrees in information engineering from the University of Salerno,  Italy, in 2017 and 2020, respectively. In 2019, she was a Visiting Scholar with the KTH Royal Institute of Technology, Sweden. From November 2020 to June 2022, she was a Postdoctoral Researcher with Roma Tre University, Italy, where she has been an Assistant Professor since June 2022. Her research interests include multirobot systems,  human–robot interaction, distributed control, and agricultural robotics. <br>
+									</p>
+
+
 						</section>
 							
 							
