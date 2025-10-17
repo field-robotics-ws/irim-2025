@@ -50,7 +50,7 @@
 										<li><b>Submission deadline: </b> September 23, 2025</li>
 										<li><b>Workshop date: </b> October 18, 2025, 15.30 - 18.00</li>
 										<li><b>Where: </b>  Gazometro Ostiense, Rome, Italy</li>
-										<li><b>Room: </b>  Sala Caravaggio </li>
+										<li><b>Room: </b>  Aula Magna </li>
 										<!--li><b>Online Link: </b>  <a href="https://events.zoom.us/ev/AmDwmh4pBZTIC06_Sgm1CA9p1mjyBQFa0ifW0ULzLsumlFOfF7Pu~AggLXsr32QYFjq8BlYLZ5I06Dg"> https://events.zoom.us/ev/AmDwmh4pBZTIC06_Sgm1CA9p1mjyBQFa0ifW0ULzLsumlFOfF7Pu~AggLXsr32QYFjq8BlYLZ5I06Dg</a></li>
 										<li><b>How to reach the place: </b> </li>
 										<div> 
@@ -86,21 +86,20 @@ Among the key open problems that this workshop aims to discuss there are:
 						<!-- Second Section -->
 						
 						<section id="speakers" class="main">
-							<!-- <div class="inner">
+							<div class="inner">
 							<header class="major">
 									<h2>Speakers (alphabetical order)</h2>
 									
 								</header>
-								 <ul>
+								<!--  <ul>
 							  <li>Victor Barasuol, Senior Researcher, Istituto Italiano di Tecnologia (IIT) </li>
 							  <li> Marco Camurri, Associate Professor, University of Trento </li>
 							  <li>Karl Dietrich von Ellenrieder, Full Professor, Free University of Bozen-Bolzano </li>
 							  <li>Martina Lippi, Assistant Professor, Roma Tre University </li>
-							</ul>
+							</ul> -->
 							
 											
 								
-							</div> -->
 							
 							
 							<div class="row">
@@ -226,6 +225,7 @@ Among the key open problems that this workshop aims to discuss there are:
 									</p>
 
 
+							</div>
 						</section>
 							
 							
